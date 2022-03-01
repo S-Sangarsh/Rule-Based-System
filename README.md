@@ -1,4 +1,4 @@
-# Rule-Based-System
+# Rule-Based-System API
 ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![Flask](https://img.shields.io/badge/Flask%20RestPlus-2.7-orange)
 
 Rule Based System using Flask-RestPlus API
